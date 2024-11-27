@@ -29,6 +29,9 @@ This file contains links to course materials, videos, and other resources I'm us
 | **Tool/Library**           | **Official Website** | **Link**                         | **Notes**                     |
 |----------------------------|----------------------|-----------------------------------|-------------------------------|
 | TensorFlow                 | tensorflow.org       | [Link](https://www.tensorflow.org) | Comprehensive docs.           |
+| Pytorch                    | pytorch.org          | [Link](https://pytorch.org/docs/stable/index.html) | Comprehensive docs.           |
+
+---
 
 ---
 
