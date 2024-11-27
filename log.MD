@@ -4,10 +4,10 @@ This file contains links to course materials, videos, and other resources I'm us
 
 ---
 
-## Courses
+## Videos
 | **Video Title**           | **Channel/Platform** | **Link**                         | **Notes**                     |
 |----------------------------|----------------------|-----------------------------------|-------------------------------|
-| PyTorch for Deep Learning and Machine Learning | 3Blue1Brown          | [Link](https://www.youtube.com/watch?v=V_xro1bcAuA) | Excellent visualization.     |
+| PyTorch for Deep Learning and Machine Learning | FreeCodeCamp         | [Link](https://www.youtube.com/watch?v=V_xro1bcAuA) | Excellent visualization.     |
 
 ---
 
@@ -21,7 +21,7 @@ This file contains links to course materials, videos, and other resources I'm us
 ## Books and Articles
 | **Title**                  | **Author/Publisher** | **Link**                         | **Notes**                     |
 |----------------------------|----------------------|-----------------------------------|-------------------------------|
-| Hands-On Machine Learning  | Aurélien Géron       | [Link](https://oreilly.com)      | Practical guide for ML.       |
+| Machine Learning with PyTorch and Scikit-Learn  | Sebastian Raschka       | [Link]()      | Practical guide for ML.       |
 
 ---
 
