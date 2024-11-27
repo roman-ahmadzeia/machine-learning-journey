@@ -4,18 +4,17 @@ This file contains links to course materials, videos, and other resources I'm us
 
 ---
 
-
 ## Courses
-| **Course Name**           |**Link**                                                                                          |
-|---------------------------------|-------------------|----------------------------------|-------------------------------------|
-| Machine Learning Specialization | Coursera          | [Link](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai)     | Covers basics to advanced concepts. |
+| **Video Title**           | **Channel/Platform** | **Link**                         | **Notes**                     |
+|----------------------------|----------------------|-----------------------------------|-------------------------------|
+| PyTorch for Deep Learning and Machine Learning | 3Blue1Brown          | [Link](https://www.youtube.com/watch?v=V_xro1bcAuA) | Excellent visualization.     |
 
 ---
 
 ## Videos
 | **Video Title**           | **Channel/Platform** | **Link**                         | **Notes**                     |
 |----------------------------|----------------------|-----------------------------------|-------------------------------|
-| PyTorch for Deep Learning and Machine Learning | 3Blue1Brown          | [Link](https://www.youtube.com/watch?v=V_xro1bcAuA) | Excellent visualization.     |
+| Machine Learning Specialization | Coursera              | [Link](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai) | Excellent visualization.     |
 
 ---
 
